@@ -1,7 +1,8 @@
 Hi, I am James Ding.
-- I was born in Toronto, but I grew up in Cleveland since the age of five.
+- I was born in Toronto, but I grew up in Cleveland.
 - I am enrolled at the University of Waterloo for Honors Computer Engineering.
-- I have experience in developing apps using Java, C#, Python, Javascript, TypeScript, React Native, and the Unity Engine.
+- I have strong experience in app development with Java, C# with Unity, and Python.
+- I have also used Javascript, TypeScript, and React Native for smaller projects.
 
 The project I am current most invested in right now is Concert Maestro:
 https://github.com/james-ding-loves-igloos/rhythm-learning-app
