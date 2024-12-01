@@ -10,4 +10,4 @@ https://github.com/dingjamesj/rhythm-learning-app
 - Users are shown a section of music notation and are meant to tap to the rhythm on their screens after a count-in.
 - There are also tapping guides on certain levels, meant to help users that are stuck on a tricky rhythm.
 
-However, I am excited to learn other languages like Kotlin. I am also interested in hardware.
+However, I am excited to learn other languages like Kotlin. I am also interested in hardware and embedded systems.
