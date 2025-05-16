@@ -1,5 +1,6 @@
 Hi, I am James Ding.
-- I was born in Toronto, and I grew up in suburban Akron Ohio.
-- I am enrolled at the University of Waterloo for Honors Computer Engineering.
+
+- I was born in Scarborough, Toronto, and I grew up in northeastern Ohio.
+- I am at the University of Waterloo for Honors Computer Engineering.
 
 Have a good day.
